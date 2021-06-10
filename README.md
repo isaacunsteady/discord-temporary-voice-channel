@@ -1,4 +1,4 @@
-# Discord Temporary Voice Channel
+# Karşılaştığınız hatalar için: Isaác.xxxxxxxxxxxxxxxxxxxxxxxx#1911
 
 ### Kurulum
 
