@@ -1,0 +1,13 @@
+{
+  "imports": {
+    "token": "",
+    "prefix": "."
+  },
+  
+  "temporary": {
+    "channel": "",
+    "category": "",
+    "text": "",
+    "limit": 2
+  }
+}
