@@ -1,1 +1,1 @@
-# Karşılaştığınız hatalar için: Isaác.xxxxxxxxxxxxxxxxxxxxxxxx#1911
+# Karşılaştığınız hatalar için (For errors that occur): Isaác.xxxxxxxxxxxxxxxxxxxxxxxx#1911
