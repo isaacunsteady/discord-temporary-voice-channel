@@ -57,7 +57,7 @@ client.on("message", async message => {
   var channel = message.guild.channels.cache.get(author.voice.channelID);
   if (!author.voice.channel || author.voice.channel.name !== message.author.tag)
     return client.message(
-      "**Bu kanal üzerinde komut kullanamazsınız.**",
+      "**Ses kanalında bulunmuyorsunuz veya bulunduğunuz kanal size ait değil.**",
       message.channel.id,
       5000
     );
