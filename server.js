@@ -79,7 +79,7 @@ client.on("message", async message => {
         )
       );
   } else if (command === "ekle") {
-    if (!uye)
+    if (!uye) return
       client.message("**Bir üye belirtmelisin.**", message.channel.id, 5000);
     channel
       .createOverwrite(uye.id, { CONNECT: true, SPEAK: true })
@@ -91,7 +91,7 @@ client.on("message", async message => {
         )
       );
   } else if (command === "kaldır") {
-    if (!uye)
+    if (!uye) return
       client.message("**Bir üye belirtmelisin.**", message.channel.id, 5000);
     channel.permissionOverwrites
       .get(uye.id)
